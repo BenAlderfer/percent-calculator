@@ -1,5 +1,7 @@
 # Percent Calculator
 
+**Deprecated - rewrite here: https://github.com/BenAlderfer/percent-calculatorv2**
+
 Copyright (c) 2015 Benjamin Alderfer.
 See the license file for copying permission.
 
